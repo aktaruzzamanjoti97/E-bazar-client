@@ -65,7 +65,7 @@ const Checkout = () => {
                         {checkOut && (<tbody>
                             <tr>
                               
-                                <td>{checkOut.name}</td>
+                                <td style={{fontSize:'25px', fontWeight: '600'}}>{checkOut.name}</td>
                                 <td>{checkOut.price}</td>
                                 <td>{checkOut.quantity}</td>
                             </tr>
