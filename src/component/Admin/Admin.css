@@ -1,0 +1,82 @@
+.panel-options{
+    /* flex: 25%; */
+    /* background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+ background-blend-mode: multiply,multiply; */
+ 
+ background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+ background-blend-mode: multiply,multiply;
+    /* padding: 2rem 1rem 0 3rem; */
+    padding: 30px;
+    height: 100vh;
+
+}
+
+/* .panel-options h3{
+    font-size: 3rem;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 3rem;
+} */
+
+.panel-options button{
+    /* color: #1a1a1a; */
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+    /* padding-right: 10rem; */
+    padding-left: 1rem;
+    font-weight: 600;
+    outline: none;
+    border: none;
+}
+
+/* .panel-options button:checked{
+    background-color: white;
+} */
+
+/* .panel-options h3 span{
+    color: yellowgreen;
+    font-weight: 400;
+} */
+
+.product-form{
+    flex: 75%;
+    /* background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); */
+    /* padding: 2rem 1rem 0 3rem; */
+}
+
+
+.section-Heading{
+    background-color: white;
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+.product-input{
+    background-color: white;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.product-input input{
+    width: 400px;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+    padding: .60rem;
+    border: none;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    outline: none;
+}
+
+.product-input button{
+    background-color: yellowgreen;
+    border: none;
+    border-radius: 10px;
+    padding:.5rem  1rem;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.product-input input:focus{
+    box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,22 @@
+.section-heading{
+    margin-bottom: 3rem;
+    margin-top: 5rem;
+}
+.section-heading span{
+    color: yellowgreen;
+}
+
+.order-btn{
+    color: white;
+    background-color: yellowgreen;
+    font-size: 1.3rem;
+    font-weight: 600;
+    float: right;
+    border: none;
+    border-radius: 5px;
+    padding: .5rem 1rem;
+}
+
+.order-btn:hover{
+    background-color: #73a50e;
+}

@@ -1,0 +1,22 @@
+[
+    {
+       "name":"chips",
+       "image": "https://ibb.co/Hn9WwQr",
+       "price":"270" 
+    },
+    {
+        "name":"potato",
+       "image": "https://i.ibb.co/C0ZkfDG/thumb-104373-default-news-size-5.jpg",
+       "price":"270"
+    },
+    {
+        "name":"ruchi",
+        "image": "https://i.ibb.co/rG2SKQ2/116219502-2447300208901759-1404018026242276717-o.jpg",
+        "price":"270"  
+    },
+    {
+        "name":"gas",
+        "image": "https://i.ibb.co/zSCZ3t2/joti.jpg",
+        "price":"270"  
+    } 
+]
