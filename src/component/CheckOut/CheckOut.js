@@ -51,7 +51,7 @@ const Checkout = () => {
     return (
         <div>      
             <Container>
-                <h3 className="section-heading"><span><FontAwesomeIcon icon={faShoppingBag} /></span> CheckOut</h3>
+                <h3 className="section-heading bg-info"><span><FontAwesomeIcon icon={faShoppingBag} /></span> CheckOut</h3>
                 <div className="table">
                     <Table responsive>
                         <thead>
