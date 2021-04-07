@@ -80,7 +80,7 @@ const Admin = () => {
                                         <input onChange={handleImageUpload} type="file"/>
                                     </div>
                                     {/* <input className="text-center" type="submit" />                 */}
-                                    <Button className="text-center" type="submit">Save</Button>
+                                    <Button className="text-center" type="submit">Save Product</Button>
                                 </div>
                                 
                             </form>

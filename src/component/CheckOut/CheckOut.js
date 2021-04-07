@@ -51,7 +51,7 @@ const Checkout = () => {
     return (
         <div>      
             <Container>
-                <h3 className="section-heading bg-info"><span><FontAwesomeIcon icon={faShoppingBag} /></span> CheckOut</h3>
+                <h3 className="section-heading bg-dark text-center text-white"><span><FontAwesomeIcon icon={faShoppingBag} /></span> CheckOut</h3>
                 <div className="table">
                     <Table responsive>
                         <thead>
@@ -65,9 +65,9 @@ const Checkout = () => {
                         {checkOut && (<tbody>
                             <tr>
                               
-                                <td style={{fontSize:'25px', fontWeight: '600'}}>{checkOut.name}</td>
-                                <td>{checkOut.price}</td>
-                                <td>{checkOut.quantity}</td>
+                                <td style={{fontSize:'23px', fontWeight: '600'}}>{checkOut.name}</td>
+                                <td style={{color:'green'}}>{checkOut.price}</td>
+                                <td style={{color:'red'}}>{checkOut.quantity}</td>
                             </tr>
                         </tbody>)}
                     </Table>
