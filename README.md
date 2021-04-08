@@ -1,8 +1,9 @@
-A single page ticket booking website where user can ticket.
+A fullstack website named "Sobzi Bazar"
 
-#live site link : https://fullstack-assignment-6ec7f.web.app/
+# live site link : 
+https://fullstack-assignment-6ec7f.web.app/
 
-##technology-used
+## technology-used
 1)React-js
 2)Bootstrap 
 3)CSS3
